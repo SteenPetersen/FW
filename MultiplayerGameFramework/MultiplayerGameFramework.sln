@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerGameFramework", "MultiplayerGameFramework\MultiplayerGameFramework.csproj", "{7B90823A-B0FA-46DA-807E-1F78FA2FED80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGF-Photon", "MGF-Photon\MGF-Photon.csproj", "{871EADD5-6133-46A3-AF9E-E27450C7954F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGF-Photon4", "MGF-photon4\MGF-Photon4.csproj", "{34287382-1875-4296-AB49-87ACD5E2F030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servers", "Servers\Servers.csproj", "{FEF47DB4-697E-464B-8589-CD6B45E4A6E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B90823A-B0FA-46DA-807E-1F78FA2FED80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B90823A-B0FA-46DA-807E-1F78FA2FED80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B90823A-B0FA-46DA-807E-1F78FA2FED80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B90823A-B0FA-46DA-807E-1F78FA2FED80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871EADD5-6133-46A3-AF9E-E27450C7954F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871EADD5-6133-46A3-AF9E-E27450C7954F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871EADD5-6133-46A3-AF9E-E27450C7954F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871EADD5-6133-46A3-AF9E-E27450C7954F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34287382-1875-4296-AB49-87ACD5E2F030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34287382-1875-4296-AB49-87ACD5E2F030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34287382-1875-4296-AB49-87ACD5E2F030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34287382-1875-4296-AB49-87ACD5E2F030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF47DB4-697E-464B-8589-CD6B45E4A6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF47DB4-697E-464B-8589-CD6B45E4A6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF47DB4-697E-464B-8589-CD6B45E4A6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF47DB4-697E-464B-8589-CD6B45E4A6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

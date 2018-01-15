@@ -1,0 +1,5 @@
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MultiplayerGameFramework\obj\Debug\MultiplayerGameFramework.csprojResolveAssemblyReference.cache
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MultiplayerGameFramework\bin\Debug\MultiplayerGameFramework.dll
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MultiplayerGameFramework\bin\Debug\MultiplayerGameFramework.pdb
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MultiplayerGameFramework\obj\Debug\MultiplayerGameFramework.dll
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MultiplayerGameFramework\obj\Debug\MultiplayerGameFramework.pdb
