@@ -1,0 +1,14 @@
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\bin\Debug\MGF.DataEntities.dll.config
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\bin\Debug\MGF.DataEntities.dll
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\bin\Debug\MGF.DataEntities.pdb
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\bin\Debug\EntityFramework.dll
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\bin\Debug\MySql.Data.dll
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\bin\Debug\EntityFramework.xml
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\bin\Debug\MySql.Data.xml
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\obj\Debug\MGF.DataEntities.csprojResolveAssemblyReference.cache
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\obj\Debug\MGF.DataEntities.dll
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.DataEntities\obj\Debug\MGF.DataEntities.pdb

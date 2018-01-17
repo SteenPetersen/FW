@@ -1,0 +1,13 @@
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\obj\Debug\MGF.Domain.csprojResolveAssemblyReference.cache
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\bin\Debug\MGF.Domain.exe.config
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\bin\Debug\MGF.Domain.exe
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\bin\Debug\MGF.Domain.pdb
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\bin\Debug\EntityFramework.dll
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\bin\Debug\MGF.DataEntities.dll
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\bin\Debug\MGF.DataEntities.pdb
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\bin\Debug\MGF.DataEntities.dll.config
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\bin\Debug\EntityFramework.xml
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\obj\Debug\MGF.Domain.exe
+D:\Code\MultiplayerGameFramework\MultiplayerGameFramework\MGF.Domain\obj\Debug\MGF.Domain.pdb
